@@ -1,2 +1,3 @@
 # Latihan-Branch
-Belajar Branch pada github
+ini adalah repository untuk belajar branch
+
